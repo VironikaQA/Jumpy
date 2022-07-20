@@ -1,2 +1,2 @@
 # Jumpy
-Проект для домашней работы студентов QA Game Engineer 2022 (Otus)
+Some automation tests in Editmode and Playmode for a small open source game made in Unity
