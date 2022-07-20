@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2022-07-19_21-38-05" tag="">
+  <assembly name="Assembly-CSharp">
+    <class name="GameValues" coveredlines="0" coverablelines="5" totallines="15" coveredbranches="0" totalbranches="0" />
+    <class name="TestSave" coveredlines="0" coverablelines="98" totallines="143" coveredbranches="0" totalbranches="0" />
+    <class name="UnityEngine.Recorder.Examples.CaptureScreenShotExample" coveredlines="0" coverablelines="21" totallines="59" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Assembly-CSharp-Editor">
+    <class name="Gley.About.AssetVersion" coveredlines="0" coverablelines="4" totallines="16" coveredbranches="0" totalbranches="0" />
+    <class name="GleyAllPlatformsSave.SaveSettingsWindow" coveredlines="0" coverablelines="121" totallines="166" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.JumpyEditorWindow" coveredlines="0" coverablelines="72" totallines="103" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Editor">
+    <class name="Tests.Editor.AssetTest" coveredlines="12" coverablelines="12" totallines="31" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="NewAssembly">
+    <class name="GleyAllPlatformsSave.BinarySerializationUtility" coveredlines="0" coverablelines="38" totallines="103" coveredbranches="0" totalbranches="0" />
+    <class name="GleyAllPlatformsSave.Encryption" coveredlines="0" coverablelines="10" totallines="19" coveredbranches="0" totalbranches="0" />
+    <class name="GleyAllPlatformsSave.JSONSerializationPlayerPrefs" coveredlines="0" coverablelines="107" totallines="162" coveredbranches="0" totalbranches="0" />
+    <class name="GleyAllPlatformsSave.SaveSettings" coveredlines="0" coverablelines="2" totallines="58" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.Alignment" coveredlines="0" coverablelines="13" totallines="48" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.AnimatorEventsTrigger" coveredlines="0" coverablelines="10" totallines="34" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.AssetsLoaderManager" coveredlines="0" coverablelines="58" totallines="149" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.Corn" coveredlines="0" coverablelines="16" totallines="55" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.Cylinder" coveredlines="0" coverablelines="31" totallines="82" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.GameManager" coveredlines="0" coverablelines="46" totallines="124" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.GameProgressManager" coveredlines="0" coverablelines="41" totallines="123" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.GenericInterfaceController" coveredlines="0" coverablelines="95" totallines="205" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.GenericPopup" coveredlines="0" coverablelines="107" totallines="234" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.HelperMethods" coveredlines="0" coverablelines="18" totallines="63" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.InGameInterface" coveredlines="0" coverablelines="95" totallines="272" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.LevelBuilder" coveredlines="0" coverablelines="122" totallines="250" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.LevelCompletePopup" coveredlines="0" coverablelines="20" totallines="56" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.LevelManager" coveredlines="2" coverablelines="174" totallines="418" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.LevelObstacles" coveredlines="0" coverablelines="86" totallines="173" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.MyButton" coveredlines="0" coverablelines="35" totallines="58" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.PausePopup" coveredlines="0" coverablelines="11" totallines="46" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.Player" coveredlines="0" coverablelines="140" totallines="312" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.SavedProperties" coveredlines="0" coverablelines="3" totallines="13" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.SingleReference[T]" coveredlines="0" coverablelines="18" totallines="45" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.SoundLoaderManager" coveredlines="0" coverablelines="289" totallines="487" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.TitleScreenPopup" coveredlines="0" coverablelines="40" totallines="117" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.TweenManager" coveredlines="0" coverablelines="42" totallines="94" coveredbranches="0" totalbranches="0" />
+    <class name="Jumpy.UserInputManager" coveredlines="0" coverablelines="128" totallines="201" coveredbranches="0" totalbranches="0" />
+    <class name="SaveManager" coveredlines="0" coverablelines="45" totallines="138" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Runtime">
+    <class name="TestScripts" coveredlines="0" coverablelines="32" totallines="87" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Unity.Recorder.Samples.Editor">
+    <class name="UnityEditor.Recorder.Examples.RecorderEditorExample" coveredlines="0" coverablelines="8" totallines="25" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>

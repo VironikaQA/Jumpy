@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2022-07-19 13:51:29Z" end-time="2022-07-19 13:51:29Z" duration="0.0458292">
+  <test-suite type="TestSuite" id="1010" name="Jumpy" fullname="Jumpy" runstate="Runnable" testcasecount="1" result="Passed" start-time="2022-07-19 13:51:29Z" end-time="2022-07-19 13:51:29Z" duration="0.045829" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1013" name="Editor.dll" fullname="C:/Users/User/Documents/My Games/Jumpy/Library/ScriptAssemblies/Editor.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2022-07-19 13:51:29Z" end-time="2022-07-19 13:51:29Z" duration="0.033947" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="17108" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+      </properties>
+      <test-suite type="TestSuite" id="1014" name="Tests" fullname="Tests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2022-07-19 13:51:29Z" end-time="2022-07-19 13:51:29Z" duration="0.033547" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1015" name="Editor" fullname="Tests.Editor" runstate="Runnable" testcasecount="1" result="Passed" start-time="2022-07-19 13:51:29Z" end-time="2022-07-19 13:51:29Z" duration="0.029933" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="1011" name="AssetTest" fullname="Tests.Editor.AssetTest" classname="Tests.Editor.AssetTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2022-07-19 13:51:29Z" end-time="2022-07-19 13:51:29Z" duration="0.025578" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1012" name="AssetValidate" fullname="Tests.Editor.AssetTest.AssetValidate" methodname="AssetValidate" classname="Tests.Editor.AssetTest" runstate="Runnable" seed="1073703632" result="Passed" start-time="2022-07-19 13:51:29Z" end-time="2022-07-19 13:51:29Z" duration="0.012245" asserts="0">
+              <properties />
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
